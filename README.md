@@ -1,4 +1,4 @@
-# My ReadMe Generator!
+# My Professinal ReadMe Generator!
     
   This appilcation is covered by Apache License 2.0 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## description  
@@ -40,10 +40,10 @@ Please refer to the [Usage](#usage) section.
 
 
 ## Email
-none  
+Reach me at [Email](Groyseth@gmail.com)
 
 ## GitHub
-
+For other projects [GitHub](https://github.com/groyseth)
 
 ## Questions
 
