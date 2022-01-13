@@ -1,10 +1,8 @@
  var link;
- // "", "BSD licenses", "GNU licenses", "MIT License"
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+
 function renderLicenseBadge(license) {
- var nameOf = (license)
-switch(nameOf) {
+ 
+switch(license) {
   case "Apache License 2.0":
     link = "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
     textOf = "Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form. Click badge for more info"
@@ -35,17 +33,9 @@ switch(nameOf) {
 
 }
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) {}
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) {
-  
-}
 
-// TODO: Create a function to generate markdown for README
+
 function generateMarkdown(data){
 
 renderLicenseBadge(data.license);

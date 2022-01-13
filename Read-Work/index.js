@@ -1,14 +1,7 @@
-// TODO: Include packages needed for this application
-// npm install inquirer
-// description, installation instructions, usage information, contribution guidelines, and test instructions
-// title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
-// console.log(generateMarkdown);
-// Why did you build this project? 
-//      What problem does it solve?
-//      What did you learn?",
+
 inquirer
   .prompt([
     {
@@ -81,23 +74,7 @@ inquirer
  function makeToFile(data) {
    return generateMarkdown(data)
  }
-    // Use user feedback for... whatever!!
-  
-//   .catch((error) => {
-//     if (error.isTtyError) {
-//       // Prompt couldn't be rendered in the current environment
-//     } else {
-//       // Something else went wrong
-//     }
-//   });
-// // TODO: Create an array of questions for user input
-// const questions = [];//look at notes
 
-// // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
+ function init() { }
 
-// // TODO: Create a function to initialize app
-// function init() {}
-
-// // Function call to initialize app
-// init();
+init();
