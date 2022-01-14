@@ -1,9 +1,10 @@
-# asdf
+# Project Title
     
- [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-## description  
+## Badges  
+ [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+## Description  
 
-asd
+Project disc
 ## Table of Contents 
 
 - [Installation](#installation)
@@ -12,34 +13,32 @@ asd
 - [License](#license)
 - [Contribute](#contribute)
 - [Tests](#tests)
-- [Email](#email)
-- [GitHub](#github)
 - [Questions](#questions)
 
 ## Installation
-adsf  
+install ex  
 
 ## Usage
-asdf  
+Instruction ex  
 
 ## Credits
 Made by Grant Royseth!
 
 ## License  
-Apache License 2.0  
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)  
+GNU licenses  
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 A brief discription:
 
-Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form. Click badge for more info
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 ## Contribute
-asdf  
+none  
 
 ## Tests
-asdf
+test ex
 
 
 ## Questions
-fasd
+https://github.com/groyseth
 
-asd
+groyseth@gmail.com

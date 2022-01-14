@@ -55,8 +55,6 @@ ${data.discription}
 - [License](#license)
 - [Contribute](#contribute)
 - [Tests](#tests)
-- [Email](#email)
-- [GitHub](#github)
 - [Questions](#questions)
 
 ## Installation
