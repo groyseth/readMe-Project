@@ -1,5 +1,5 @@
  var link;
-
+ var bagIn = "![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)"
 function renderLicenseBadge(license) {
  
 switch(license) {
@@ -42,7 +42,7 @@ renderLicenseBadge(data.license);
 
   return `# ${data.projectName}
     
-  This appilcation is covered by ${data.license} ${link}
+ ${link} ${bagIn}
 ## description  
 
 ${data.discription}
