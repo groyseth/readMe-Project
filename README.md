@@ -1,6 +1,6 @@
 # My Professinal ReadMe Generator!
     
-  This appilcation is covered by Apache License 2.0 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+   [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ## description  
 
 This generator promps the user with questions for the structor of the ReadMe. You can use this for a fast and easy ReadMe!
