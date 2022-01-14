@@ -1,9 +1,32 @@
 # My Professinal ReadMe Generator!
-    
+
+## Badges
    [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-## description  
+## Description  
 
 This generator promps the user with questions for the structor of the ReadMe. You can use this for a fast and easy ReadMe!
+
+User will be asked:
+- Title
+- Disctription
+- Installation
+- Usage
+- Credits
+- License
+- How to contribute
+- Test
+- Questions
+
+ This application was created using technologies such as:
+
+- JavaScript
+- Node.js
+- NPM
+- Inquirer.js
+
+
+
+
 ## Table of Contents 
 
 - [Installation](#installation)
@@ -17,10 +40,14 @@ This generator promps the user with questions for the structor of the ReadMe. Yo
 - [Questions](#questions)
 
 ## Installation
-You will need inquirer instalation to run this project.  
+You will need to clone this respitory and run 'npm i' to install the dependencie 'inquirer' 
 
 ## Usage
-You will be prompted for input to fill out your new ReadMe.  
+- User will need to run 'node index.js'
+- User will be prompted with questions for the skeleton of ReadMe.
+- Once user answers all questions, then a new file will appear as myReadMe.md
+- Use control + shift + v to see a live view in VS Code.
+
 
 ## Credits
 Made by Grant Royseth!
@@ -33,17 +60,12 @@ A brief discription:
 Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form. Click badge for more info
 
 ## Contribute
-Permision required.  
+If you would like to contribute to my project, contact me in [Questions](#questions) section.
 
 ## Tests
 Please refer to the [Usage](#usage) section.
 
-
-## Email
-Reach me at [Email](Groyseth@gmail.com)
-
-## GitHub
-For other projects [GitHub](https://github.com/groyseth)
-
 ## Questions
+My profile page [GitHub](https://github.com/groyseth)
 
+Reach me at [Email](Groyseth@gmail.com)
