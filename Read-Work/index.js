@@ -50,11 +50,7 @@ inquirer
   message: "GitHub username?",
   name: "github"
 },
-{
-  type: "input",
-  message: "Questions?",
-  name: "question"
-},
+
    
   ])
    

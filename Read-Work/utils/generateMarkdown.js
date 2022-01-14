@@ -42,8 +42,9 @@ renderLicenseBadge(data.license);
 
   return `# ${data.projectName}
     
+## Badges  
  ${link} ${bagIn}
-## description  
+## Description  
 
 ${data.discription}
 ## Table of Contents 
@@ -81,14 +82,10 @@ ${data.contribution}
 ${data.test}
 
 
-## Email
-${data.email}  
-
-## GitHub
+## Questions
 ${data.github}
 
-## Questions
-${data.question}
+${data.email}
 `;
 
 }
