@@ -4,9 +4,10 @@
    [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
 ## Description  
 
-(https://watch.screencastify.com/v/6FC69rrW6nyvwOlAcxkx)
+![Untitled_ Jan 13, 2022 9_20 PM (1)](https://user-images.githubusercontent.com/90479839/149447678-6cfa7281-0bfb-4589-8a1b-1ab3c28af5a0.gif)
 
 
+[video link](https://watch.screencastify.com/v/6FC69rrW6nyvwOlAcxkx)
 
 This generator promps the user with questions for the structor of the ReadMe. You can use this for a fast and easy ReadMe!
 
@@ -39,8 +40,6 @@ User will be asked:
 - [License](#license)
 - [Contribute](#contribute)
 - [Tests](#tests)
-- [Email](#email)
-- [GitHub](#github)
 - [Questions](#questions)
 
 ## Installation
