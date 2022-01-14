@@ -1,7 +1,7 @@
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown');
-
+function init(){
 inquirer
   .prompt([
     {
@@ -65,12 +65,12 @@ inquirer
          console.log("successful");
      })
  })
-
+}
 
  function makeToFile(data) {
    return generateMarkdown(data)
  }
 
- function init() { }
+ 
 
 init();
