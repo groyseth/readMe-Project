@@ -43,7 +43,8 @@ User will be asked:
 - [Questions](#questions)
 
 ## Installation
-You will need to clone this respitory and run 'npm i' to install the dependencie 'inquirer' 
+You will need to clone this respitory and run 'npm i' to install the dependencie 'inquirer'.
+To run use 'npm run test'
 
 ## Usage
 - User will need to run 'node index.js'
